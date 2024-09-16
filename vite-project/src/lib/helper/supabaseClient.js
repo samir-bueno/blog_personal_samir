@@ -6,3 +6,4 @@ const supabase = createClient("https://ommcbzdzspgafltwqtpd.supabase.co/",
 );
 
 export default supabase;
+ 

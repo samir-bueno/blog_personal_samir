@@ -1,4 +1,4 @@
-export function Post({titulo, link, descripcion, parrafo}){
+export  function Post({titulo, link, descripcion, parrafo}){
     return (
       <>
       <h2>{titulo}</h2>
